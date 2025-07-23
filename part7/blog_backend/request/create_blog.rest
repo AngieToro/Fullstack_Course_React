@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFuZ2llIiwiaWQiOiI2ODJmNTY1NTJiNDQzMTkxNjlhNGE5YzUiLCJpYXQiOjE3NDc5MzQxNjksImV4cCI6MTc0NzkzNzc2OX0.n9xdjD3v7qlEQp2M1GDH0yGMD4HE8oJq-Y1WUl2SGH4
+
+{
+    "title": "Prueba .........",
+    "author": "Angelica",
+    "url": "https://localhost.com",
+    "likes": 1,
+    "user": "682f56552b44319169a4a9c5"
+}

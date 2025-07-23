@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/682b8694a9761e7774f151b5
+Content-Type: application/json
+
+{
+  "title": "Mi primer blog",
+  "author": "Angelica Toro",
+  "url": "https://mi-blog.com",
+  "likes": 2
+}

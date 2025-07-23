@@ -1,0 +1,17 @@
+#clone projects
+/part2/json-server
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Systems
+Thumbs.db
+ehthumbs.db
+Desktop.ini

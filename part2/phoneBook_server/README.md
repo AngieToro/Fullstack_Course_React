@@ -1,0 +1,3 @@
+- La data estan guardadas en el proyecto en un archivo db.json
+- Para ejecutar la data en la consola poner npx json-server --watch db.json e indicara la URL http://localhost:3000/persons (ejemplo)
+- Para ejecutar este proyecto en un consola poner npm run dev indicara la URL http://localhost:5173/

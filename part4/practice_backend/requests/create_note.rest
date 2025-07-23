@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImF0b3JvIiwiaWQiOiI2ODJlMmVmZGQxYTU4ZjNjOGYzY2I1MGUiLCJpYXQiOjE3NDc5Mjk3ODl9.r7WL68G5E-sLPscsVp7HOhXGadewG1tNtV-Zh3gDQHY
+
+{
+    "content": "Logitech",
+    "important": false,
+    "user": "682e2efdd1a58f3c8f3cb50e"
+}

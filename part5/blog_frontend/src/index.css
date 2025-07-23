@@ -1,0 +1,45 @@
+h1 {
+  color: green;
+  font-style: italic;
+}
+
+h2 {
+  color: goldenrod;
+  font-style: italic;
+}
+
+.messageSuccess {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.messageError {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blog {
+  padding-top: 10px;
+  padding-left: 2;
+  border: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
+
+.blog-detail {
+  padding-top: 10px;
+  padding: 15px;
+  border: solid;
+  border-radius: 8px;
+  background-color: lightgray;
+}

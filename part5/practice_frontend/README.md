@@ -1,0 +1,3 @@
+- Las notas estan guardadas en el proyecto json-server en un archivo db.json
+- Para ejecutar el proyecto json-server en la consola poner npx json-server --watch db.json e indicara la URL http://localhost:3000/notes (ejemplo)
+- Para ejecutar este proyecto en otra consola poner npm run dev indicara la URL http://localhost:5173/
